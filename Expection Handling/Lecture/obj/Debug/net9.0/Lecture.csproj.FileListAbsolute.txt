@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\bin\Debug\net9.0\Lecture.exe
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\bin\Debug\net9.0\Lecture.deps.json
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\bin\Debug\net9.0\Lecture.runtimeconfig.json
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\bin\Debug\net9.0\Lecture.dll
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\bin\Debug\net9.0\Lecture.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.AssemblyInfo.cs
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.dll
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\refint\Lecture.dll
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\Lecture.genruntimeconfig.cache
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\Lecture\obj\Debug\net9.0\ref\Lecture.dll
