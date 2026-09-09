@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\bin\Debug\net9.0\BankTransAction.exe
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\bin\Debug\net9.0\BankTransAction.deps.json
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\bin\Debug\net9.0\BankTransAction.runtimeconfig.json
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\bin\Debug\net9.0\BankTransAction.dll
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\bin\Debug\net9.0\BankTransAction.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.AssemblyInfo.cs
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.sourcelink.json
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.dll
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\refint\BankTransAction.dll
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\BankTransAction.genruntimeconfig.cache
+C:\Users\user\Desktop\CShapr-Advanced\Expection Handling\BankTransAction\obj\Debug\net9.0\ref\BankTransAction.dll
