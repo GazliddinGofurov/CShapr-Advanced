@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.AssemblyInfo.cs
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.sourcelink.json
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\bin\Debug\net9.0\SatrlarBilanIshlash.exe
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\bin\Debug\net9.0\SatrlarBilanIshlash.deps.json
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\bin\Debug\net9.0\SatrlarBilanIshlash.runtimeconfig.json
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\bin\Debug\net9.0\SatrlarBilanIshlash.dll
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\bin\Debug\net9.0\SatrlarBilanIshlash.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.dll
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\refint\SatrlarBilanIshlash.dll
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\SatrlarBilanIshlash.genruntimeconfig.cache
+C:\Users\user\Desktop\CShapr-Advanced\Regular Expression\SatrlarBilanIshlash\obj\Debug\net9.0\ref\SatrlarBilanIshlash.dll
