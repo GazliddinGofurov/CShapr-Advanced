@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\bin\Debug\net9.0\practiceExercises.exe
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\bin\Debug\net9.0\practiceExercises.deps.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\bin\Debug\net9.0\practiceExercises.runtimeconfig.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\bin\Debug\net9.0\practiceExercises.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\bin\Debug\net9.0\practiceExercises.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.AssemblyInfo.cs
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.sourcelink.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\refint\practiceExercises.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\practiceExercises.genruntimeconfig.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\practiceExercises\obj\Debug\net9.0\ref\practiceExercises.dll

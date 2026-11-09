@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\bin\Debug\net9.0\DataAndTime.exe
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\bin\Debug\net9.0\DataAndTime.deps.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\bin\Debug\net9.0\DataAndTime.runtimeconfig.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\bin\Debug\net9.0\DataAndTime.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\bin\Debug\net9.0\DataAndTime.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.AssemblyInfo.cs
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.sourcelink.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\refint\DataAndTime.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\DataAndTime.genruntimeconfig.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\DataAndTime\obj\Debug\net9.0\ref\DataAndTime.dll

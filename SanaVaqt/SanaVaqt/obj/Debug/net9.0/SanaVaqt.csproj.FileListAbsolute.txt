@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\bin\Debug\net9.0\SanaVaqt.exe
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\bin\Debug\net9.0\SanaVaqt.deps.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\bin\Debug\net9.0\SanaVaqt.runtimeconfig.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\bin\Debug\net9.0\SanaVaqt.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\bin\Debug\net9.0\SanaVaqt.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.AssemblyInfo.cs
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.sourcelink.json
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\refint\SanaVaqt.dll
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.pdb
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\SanaVaqt.genruntimeconfig.cache
+C:\Users\user\Desktop\CShapr-Advanced\Sana va Vaqt bilan ishlash\SanaVaqt\obj\Debug\net9.0\ref\SanaVaqt.dll
